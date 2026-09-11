@@ -30,4 +30,5 @@ To better illustrate the damping effect, the figure below shows the magnitude bo
 
 
 ### Heat dissipation
-
+When operating all six channels at designed maximum load (3A), the Xantrex is delivering 18A * 10V = 180W of power into the box. The heat dissipated onto the 1 Ohm sensing resistors is 6 * (3A)
+^2 * 1 Ohms = 54W, so in the extreme case, the power dissipated to the op-amps is 180W - 54W = 126W.
